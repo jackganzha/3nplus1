@@ -51,7 +51,7 @@ For each pair of input integers i and j you should output i, j, and the maximum 
  
  Source:  <http://uva.onlinejudge.org/external/1/100.html>
  
- ### What else?
+### What else?
  
  I'm now sharing the code in cloud9ide. Just go to <http://c9.io/marcospereira/3nplus1>
  
